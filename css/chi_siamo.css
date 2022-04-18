@@ -27,7 +27,7 @@ body {
 
 .riga-link-pagine {
 
-    display: inline;
+    display: inline-block;
     color: white;
     padding: 8px;
     
