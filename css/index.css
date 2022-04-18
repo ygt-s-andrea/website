@@ -8,7 +8,7 @@ color: white;
 
 background-color: rgb(34, 145, 189);
 
-
+font-size: 50px;
 padding: 15px;
 
 padding-top: 20px;
@@ -22,3 +22,43 @@ body {
     margin: 0px;
 }
 
+.link-pagine {
+
+    display: inline;
+    color: white;
+    padding: 8px;
+    
+}
+
+#tabella-link-pagine {
+
+    text-align: center;
+    background-color:rgb(34, 145, 189);
+    /* con margin 0px rendo l'elemento attaccato ai bordi della pagina o dell'elemento sovrastante*/
+    margin: 0px;
+    padding-bottom: 20px;
+    
+}
+
+
+a {
+     /* in questo modo rimuovo la sottonieatura fastidiosa dei link */
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+a:hover { /* dentro ad a:hover inserisco tutto ciò che pagina deve fare quando con il cursore vado sopra ad un link*/
+
+    font-size: 25px;
+   
+
+}
+
+
+
+
+a:visited { /* qui dichiaro le proprietà di quando un link è stato visitato */
+
+    color: white;
+}
