@@ -1,24 +1,24 @@
 #title1 {
 
-margin: 0px;
-text-align: center;  
+margin:0px;
+text-align:center;  
 
 
-color: white;
+color:white;
 
-background-color: rgb(34, 145, 189);
+background-color:rgb(34, 145, 189);
+    
 
+padding:15px;
 
-padding: 15px;
+padding-top:20px;
 
-padding-top: 20px;
-
-padding-bottom: 40px;
+padding-bottom:40px;
 
 }
 
 body {
 
-    margin: 0px;
+    margin:0px;
 }
 
