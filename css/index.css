@@ -1,10 +1,21 @@
 #title1 {
 
-background-color: cornflowerblue;
+margin: 0px;
+text-align: center;  
 
-    border: 1px;
 
-    border-color: black;
-text-align: center;    
 color: white;
+
+background-color: rgb(34, 145, 189);
+
+padding: 15px;
+padding-top: 20px;
+padding-bottom: 40px;
+
 }
+
+body {
+
+    margin: 0px;
+}
+
