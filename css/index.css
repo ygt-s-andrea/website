@@ -1,4 +1,3 @@
-
 #title1 {
 
 margin:0px;
@@ -38,7 +37,7 @@ body {
 
     text-align: center;
     background-color:rgb(34, 145, 189);
-    
+    /* con margin 0px rendo l'elemento attaccato ai bordi della pagina o dell'elemento sovrastante*/
     margin: 0px;
     padding-bottom: 20px;
     
@@ -55,7 +54,6 @@ body {
 
 .link-pagine:hover { /* dentro ad a:hover inserisco tutto ciò che pagina deve fare quando con il cursore vado sopra ad un link*/
 
-
     font-size: 25px;
    
 
@@ -68,4 +66,3 @@ body {
 
     color: white;
 }
-
