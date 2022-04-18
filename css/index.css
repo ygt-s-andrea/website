@@ -37,7 +37,7 @@ body {
 
     text-align: center;
     background-color:rgb(34, 145, 189);
-    /* con margin 0px rendo l'elemento attaccato ai bordi della pagina o dell'elemento sovrastante*/
+    
     margin: 0px;
     padding-bottom: 20px;
     
@@ -45,13 +45,13 @@ body {
 
 
 a {
-     /* in questo modo rimuovo la sottonieatura fastidiosa dei link */
+    
     text-decoration: none;
     color: white;
     font-size: 20px;
 }
 
-a:hover { /* dentro ad a:hover inserisco tutto ciò che pagina deve fare quando con il cursore vado sopra ad un link*/
+a:hover { 
 
     font-size: 25px;
    
@@ -61,7 +61,19 @@ a:hover { /* dentro ad a:hover inserisco tutto ciò che pagina deve fare quando 
 
 
 
-a:visited { /* qui dichiaro le proprietà di quando un link è stato visitato */
+a:visited {
 
+    color: white;
+}
+
+
+   
+
+}
+
+
+
+
+a:visited { 
     color: white;
 } 
