@@ -1,0 +1,70 @@
+#title1 {
+
+    margin:0px;
+    text-align:center;  
+    
+    
+    color:white;
+    
+    background-color:rgb(34, 145, 189);
+        
+    
+    
+    font-size: 50px;
+    padding: 15px;
+    
+    
+    
+    
+    padding-bottom:40px;
+    
+    }
+    
+    body {
+    
+        margin:0px;
+    }
+    
+    .riga-link-pagine {
+    
+        display: inline-block;
+        color: white;
+        padding: 8px;
+        
+    }
+    
+    #tabella-link-pagine {
+    
+        text-align: center;
+        background-color:rgb(34, 145, 189);
+        /* con margin 0px rendo l'elemento attaccato ai bordi della pagina o dell'elemento sovrastante*/
+        margin: 0px;
+        padding-bottom: 20px;
+        
+    }
+    
+    
+    .link-pagine {
+        
+         /* in questo modo rimuovo la sottonieatura fastidiosa dei link */
+        text-decoration: none;
+        color: white;
+        font-size: 20px;
+    } 
+    
+    .link-pagine:hover { /* dentro ad a:hover inserisco tutto ciò che pagina deve fare quando con il cursore vado sopra ad un link*/
+    
+        font-size: 25px;
+       
+    
+    }
+    
+    
+    
+    
+    .link-pagine:visited { /* qui dichiaro le proprietà di quando un link è stato visitato */
+    
+        color: white;
+    }
+    
+    
